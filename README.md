@@ -37,23 +37,6 @@
 ![Eloquent](https://img.shields.io/badge/Eloquent-Laravel-red?style=for-the-badge&logo=laravel)
 
 
-
-# 🚀 Featured Projects
-
-### 📌 E-Learning API
-- Backend API for online learning platform  
-- Tech: Django REST Framework / FastAPI  
-- Features: authentication, courses, quizzes  
-
-### 📌 Task Manager App
-- CRUD system for task management  
-- Tech: Node.js + Express + MongoDB  
-
-### 📌 Portfolio Website
-- Personal developer portfolio  
-- Tech: Next.js + Tailwind CSS  
-
----
 ---
 
 # 📊 GitHub Stats
@@ -77,6 +60,23 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamy-source&theme=tokyo-night" />
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📌 E-Learning API
+- Backend API for online learning platform  
+- Tech: Django REST Framework / FastAPI  
+- Features: authentication, courses, quizzes  
+
+### 📌 Task Manager App
+- CRUD system for task management  
+- Tech: Node.js + Express + MongoDB  
+
+### 📌 Portfolio Website
+- Personal developer portfolio  
+- Tech: Next.js + Tailwind CSS  
 
 ---
 # 👨‍💻 About Me

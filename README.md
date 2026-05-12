@@ -5,21 +5,21 @@
 
 ---
 
-# 👨‍💻 About Me
+# 📊 GitHub Stats
 
-💻 Full Stack Developer (Backend focused)  
-🚀 Passionate about building scalable APIs & modern web apps  
-🧠 Problem solver with strong backend architecture mindset  
-🎯 Goal: Become a senior software engineer & build impactful systems  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mamy-source&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamy-source&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamy-source&layout=compact&theme=tokyonight" />
+</p>
 
 ---
-
-## 🧠 Bio
-
-- 🔭 I’m currently working on: REST APIs & E-learning platforms  
-- 🌱 Learning: DevOps, Docker, Cloud (AWS)  
-- 💬 Ask me about: Python, Node.js, Django, FastAPI, Laravel  
-- ⚡ Fun fact: I enjoy turning complex problems into simple systems  
 
 ---
 
@@ -52,23 +52,7 @@
 ![Django ORM](https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django)
 ![Eloquent](https://img.shields.io/badge/Eloquent-Laravel-red?style=for-the-badge&logo=laravel)
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamy-source&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamy-source&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamy-source&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -92,6 +76,23 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamy-source&theme=tokyo-night" />
 </p>
+
+---
+# 👨‍💻 About Me
+
+💻 Full Stack Developer (Backend focused)  
+🚀 Passionate about building scalable APIs & modern web apps  
+🧠 Problem solver with strong backend architecture mindset  
+🎯 Goal: Become a senior software engineer & build impactful systems  
+
+---
+
+## 🧠 Bio
+
+- 🔭 I’m currently working on: REST APIs & E-learning platforms  
+- 🌱 Learning: DevOps, Docker, Cloud (AWS)  
+- 💬 Ask me about: Python, Node.js, Django, FastAPI, Laravel  
+- ⚡ Fun fact: I enjoy turning complex problems into simple systems  
 
 ---
 

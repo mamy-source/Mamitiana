@@ -3,23 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mamitiana+RANDRIANANTENAINA;Full+Stack+Developer;Backend+Specialist;Python+%7C+Node.js+%7C+Laravel+%7C+FastAPI" />
 </p>
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamy-source&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamy-source&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamy-source&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ---
 
@@ -68,6 +52,23 @@
 ### 📌 Portfolio Website
 - Personal developer portfolio  
 - Tech: Next.js + Tailwind CSS  
+
+---
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mamy-source&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamy-source&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamy-source&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 

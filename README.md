@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mie+kely;Full+Stack+Developer;Backend+Specialist;Python+%7C+Node.js+%7C+Laravel+%7C+FastAPI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mamitiana+RANDRIANANTENAINA;Full+Stack+Developer;Backend+Specialist;Python+%7C+Node.js+%7C+Laravel+%7C+FastAPI" />
 </p>
 
 ---
@@ -57,15 +57,15 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mamy-source&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamy-source&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamy-source&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -90,16 +90,16 @@
 # 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamy-source&theme=tokyo-night" />
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: mamitianarandrianantenaina253@gmail.com 
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🐙 GitHub: https://github.com/YOUR_USERNAME  
+- 🐙 GitHub: https://github.com/mamay-source 
 
 ---
 
@@ -110,5 +110,5 @@
 ---
 
 <p align="center">
-  ⭐ From <b>Mie kely</b> | Full Stack Developer
+  ⭐ From <b>Mamitiana RANDRIANANTENAINA</b> | Full Stack Developer
 </p>

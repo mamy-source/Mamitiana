@@ -61,41 +61,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamy-source&theme=tokyo-night" />
 </p>
 
----
-
-# 🚀 Featured Projects
-
-### 📌 E-Learning API
-- Backend API for online learning platform  
-- Tech: Django REST Framework / FastAPI  
-- Features: authentication, courses, quizzes  
-
-### 📌 Task Manager App
-- CRUD system for task management  
-- Tech: Node.js + Express + MongoDB  
-
-### 📌 Portfolio Website
-- Personal developer portfolio  
-- Tech: Next.js + Tailwind CSS  
-
----
-# 👨‍💻 About Me
-
-💻 Full Stack Developer (Backend focused)  
-🚀 Passionate about building scalable APIs & modern web apps  
-🧠 Problem solver with strong backend architecture mindset  
-🎯 Goal: Become a senior software engineer & build impactful systems  
-
----
-
-## 🧠 Bio
-
-- 🔭 I’m currently working on: REST APIs & E-learning platforms  
-- 🌱 Learning: DevOps, Docker, Cloud (AWS)  
-- 💬 Ask me about: Python, Node.js, Django, FastAPI, Laravel  
-- ⚡ Fun fact: I enjoy turning complex problems into simple systems  
-
----
 
 # 🌐 Connect With Me
 
